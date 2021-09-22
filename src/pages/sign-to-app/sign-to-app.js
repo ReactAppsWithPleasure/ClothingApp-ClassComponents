@@ -6,7 +6,6 @@ import './sign-to-app.scss';
 const SignToApp = () => (
 	<div>
 		<SignIn />
-		<div>Sign Up</div>
 	</div>
 );
 
